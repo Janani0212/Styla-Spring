@@ -52,9 +52,9 @@
 #line4{
   border-bottom: 1px solid #404145;
   padding-top: 117px;
-  left: 51.5%;
+  left: 50%;
   height: 1px;
-  width: 427px;
+  width: 445px;
   animation: type 0.75s steps(60, end); 
   animation-delay: 1.75s;
   animation-fill-mode: forwards; 
